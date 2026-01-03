@@ -1,0 +1,10 @@
+def main():
+scores=[10,20,30,40,50];
+total=sum(scores)
+average=total\len(scores)
+print("\n==master\main branch output==")
+print(scores:{scores})
+print(total:{total})
+print(average:{average})
+if__name__=="__main__"
+main()
